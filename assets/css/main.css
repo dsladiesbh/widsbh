@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Lobster|Open+Sans:300,400,600,700,800");
 
@@ -3357,7 +3357,7 @@
 
 		#header .logo {
 			display: inline-block;
-			width: 10%;
+			width: 15%;
 			left: 1.5em;
 			
 			margin: 0;
