@@ -1119,7 +1119,7 @@
 
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 800px) {
 
 		.row > * {
 			padding: 0 0 0 1.25em;
@@ -1602,7 +1602,7 @@
 
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 800px) {
 
 		.inner {
 			width: 90%;
@@ -1648,7 +1648,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			body, input, select, textarea {
 				font-size: 12pt;
@@ -1848,7 +1848,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			.box {
 				padding: 2em;
@@ -2092,7 +2092,7 @@
 				width: 66%;
 			}
 
-			@media screen and (max-width: 736px) {
+			@media screen and (max-width: 800px) {
 
 				.flex.flex-2 .col.col1, .flex.flex-2 .col.col2 {
 					width: 100%;
@@ -2110,7 +2110,7 @@
 			width: 28%;
 		}
 
-			@media screen and (max-width: 736px) {
+			@media screen and (max-width: 800px) {
 
 				.flex.flex-3 .col {
 					width: 100%;
@@ -2163,7 +2163,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width:800px) {
 
 			.flex.flex-2 .col, .flex.flex-3 .col, .flex.flex-4 .col {
 				width: 100%;
@@ -3273,7 +3273,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			.wrapper {
 				padding: 2em 0;
@@ -3428,7 +3428,7 @@
 					display: none;
 				}
 
-			@media screen and (max-width: 736px) {
+			@media screen and (max-width: 800px) {
 
 				#header > a {
 					padding: 0 0.5em;
@@ -3566,7 +3566,7 @@
 				color: #ffffff;
 			}
 
-			@media screen and (max-width: 736px) {
+			@media screen and (max-width: 800px) {
 
 				#menu .close {
 					height: 4em;
@@ -3584,7 +3584,7 @@
 			visibility: visible;
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			#menu {
 				padding: 2.5em 1.75em;
@@ -3781,7 +3781,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			#banner {
 				background-attachment: scroll;
@@ -3868,7 +3868,7 @@
 				text-align: right;
 			}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			#post {
 				background-attachment: scroll;
@@ -4145,7 +4145,7 @@
 				}
 			} }
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			.post {
 				min-height: 0;
@@ -4181,7 +4181,7 @@
 		padding: 4em 0 2em 0;
 	}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			#main {
 				padding: 3em 0 1em 0;
@@ -4435,7 +4435,7 @@
 				box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.25);
 			}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 800px) {
 
 			#footer {
 				padding: 3em 0 1em 0;
