@@ -2125,7 +2125,7 @@
 			}
 
 		.flex.flex-4 .col {
-			width: 22%;
+			width: 20%;
 		}
 
 		.flex.flex-tabs {
@@ -2539,7 +2539,7 @@
 			.image.round {
 				border-radius: 100%;
 			}
-	
+
 				.image.round img {
 					border-radius: 100%;
 				}
@@ -3359,7 +3359,7 @@
 			display: inline-block;
 			width: 15%;
 			left: 1.5em;
-			
+
 			margin: 0;
 			padding: 0;
 			position: absolute;
